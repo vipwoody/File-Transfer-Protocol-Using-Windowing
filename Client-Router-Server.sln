@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{6263B602-6A76-4F4F-A908-91590532F15C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Server\Server.vcxproj", "{802FC0FA-9E41-4190-801B-A93A2E2B06C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Router", "Router\Router.vcxproj", "{F14F7443-194D-405E-8C95-8BA10B32CB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6263B602-6A76-4F4F-A908-91590532F15C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6263B602-6A76-4F4F-A908-91590532F15C}.Debug|Win32.Build.0 = Debug|Win32
+		{6263B602-6A76-4F4F-A908-91590532F15C}.Release|Win32.ActiveCfg = Release|Win32
+		{6263B602-6A76-4F4F-A908-91590532F15C}.Release|Win32.Build.0 = Release|Win32
+		{802FC0FA-9E41-4190-801B-A93A2E2B06C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{802FC0FA-9E41-4190-801B-A93A2E2B06C6}.Debug|Win32.Build.0 = Debug|Win32
+		{802FC0FA-9E41-4190-801B-A93A2E2B06C6}.Release|Win32.ActiveCfg = Release|Win32
+		{802FC0FA-9E41-4190-801B-A93A2E2B06C6}.Release|Win32.Build.0 = Release|Win32
+		{F14F7443-194D-405E-8C95-8BA10B32CB69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F14F7443-194D-405E-8C95-8BA10B32CB69}.Debug|Win32.Build.0 = Debug|Win32
+		{F14F7443-194D-405E-8C95-8BA10B32CB69}.Release|Win32.ActiveCfg = Release|Win32
+		{F14F7443-194D-405E-8C95-8BA10B32CB69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
